@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "726702598766",
+    "project_id": "fauna-app-2d716",
+    "storage_bucket": "fauna-app-2d716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726702598766:android:8bc21fac77ec2054ce147f",
+        "android_client_info": {
+          "package_name": "com.app.fauna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726702598766-fg16pfpq4unqktbltkve284bu6ofp12m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_R43538EsGyySqmaSTMJTHcOnHwkyr5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726702598766-fg16pfpq4unqktbltkve284bu6ofp12m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726702598766-6hh9clomkqgp7m12817u1s8peqmefp4s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fauna.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

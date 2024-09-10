@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_app_id">232490924982855</string>
+    <string name="app_name">Fauna</string>
+    <string name="fb_login_protocol_scheme">fb232490924982855</string>
+
+</resources>
